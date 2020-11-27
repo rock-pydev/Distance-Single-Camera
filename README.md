@@ -2,7 +2,7 @@
 
 
 ## Clone this Repo:
-git clone https://github.com/Asadullah-Dal17/Distance_measurement_using_single_camera
+git clone https://github.com/rock-pydev/Distance-Single-Camera
 
 ## install Opencv-python on Windows 
 pip install opencv-python
@@ -15,6 +15,3 @@ pip3 install opencv-python
 python distance.py
 ## linux or Mac: 
 python3 distance.py
-
-Youtube Video: https://youtu.be/zzJfAw3ASzY
-
